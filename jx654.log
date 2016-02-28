@@ -19,6 +19,7 @@ jx654
 * | 9eee411 2.first commit on 01
 |/  
 * e9397e6 1. first commit on master
+<<<<<<< HEAD
 
 yg1305
 *   2c02517 (9) 4th commit, branch1, merge branch2
@@ -41,3 +42,26 @@ yg1305
 * | bafc050 (2) 1st commit, branch1
 |/  
 * e870983 (1) 1st commit, master
+=======
+jz2312
+*   9f325f6 9 master1 merge master2
+|\
+| *   bf8c9e5 7 master2 merge master
+| |\
+| * | ce1f847 4 master2
+* | |   796057a 8 master1 merge master
+|\ \ \
+| | |/
+| |/|
+| * |   b8d2534 5 master merge master1
+| |\ \
+| | |/
+| |/|
+| * | 9d0b554 3 master
+* | | 9aa07cf 6 master1
+| |/
+|/|
+* | 217c056 2 master1
+|/
+* 48ca453 1 master
+>>>>>>> e91789825eee258ae195d2d891af1dc597bcb561
