@@ -1,21 +1,41 @@
+cl3734
+*   df13a56 9th commit (final node)
+|\
+| *   07f71bc 8th commit
+| |\
+| * | fd840fa 6th commit
+* | |   d04b4e5 7th commit
+|\ \ \
+| | |/
+| |/|
+| * |   64fcb5c 5th commit
+| |\ \
+| | |/
+| | * 8dc307c 3rd commit
+* | | f54a4d6 4th commit
+|/ /
+* | bbf2492 2nd commit
+|/
+* 9e1f97b 1st commit (starting node)
+
 jz2312
 *   9f325f6 9 master1 merge master2
-|\  
+|\
 | *   bf8c9e5 7 master2 merge master
-| |\  
+| |\
 | * | ce1f847 4 master2
 * | |   796057a 8 master1 merge master
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   b8d2534 5 master merge master1
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 9d0b554 3 master
 * | | 9aa07cf 6 master1
-| |/  
-|/|   
+| |/
+|/|
 * | 217c056 2 master1
-|/  
-* 48ca453 1 master 
+|/
+* 48ca453 1 master
