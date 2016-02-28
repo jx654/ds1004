@@ -17,3 +17,26 @@ cl3734
 * | bbf2492 2nd commit
 |/  
 * 9e1f97b 1st commit (starting node)
+
+jx654
+*   c819885 9. forth to 01 merge 02
+|\  
+| *   c7fbd2e second to 02 merge master
+| |\  
+| * | 68875f4 4. first to 02
+* | |   c1f2841 8. third to 01 merge master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   782a9c4 5. third to master merge 01
+| |\ \  
+| | |/  
+| |/|   
+| * | cf3aeb6 3. second commit on master
+* | | 5765692 6. second to 01
+| |/  
+|/|   
+* | 9eee411 2.first commit on 01
+|/  
+* e9397e6 1. first commit on master
+ 
