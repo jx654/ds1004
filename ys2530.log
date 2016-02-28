@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jz2312
 *   9f325f6 9 master1 merge master2
 |\
@@ -19,25 +20,46 @@ jz2312
 * | 217c056 2 master1
 |/
 * 48ca453 1 master
+=======
+cl3734
+*   df13a56 9th commit (final node)
+|\
+| *   07f71bc 8th commit
+| |\
+| * | fd840fa 6th commit
+* | |   d04b4e5 7th commit
+|\ \ \
+| | |/
+| |/|
+| * |   64fcb5c 5th commit
+| |\ \
+| | |/
+| | * 8dc307c 3rd commit
+* | | f54a4d6 4th commit
+|/ /
+* | bbf2492 2nd commit
+|/
+* 9e1f97b 1st commit (starting node)
+>>>>>>> 8b9a8cdc8767d2a8ea8bf63cfb4554d4180a5abd
 
 ys2530
 *   bcb7f67 Merge branch 'branch3' into branch4
-|\  
+|\
 | *   ade9d49 Merge branch 'branch1' into branch3
-| |\  
+| |\
 | * | ed5ea4b change 1 on branch3
 * | |   03933ca Merge branch 'branch1' into branch4
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   017ddcc Merge branch 'branch2' into branch1
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 72bec87 change 1 on branch1
 * | | 63d4802 change 1 on branch4
-| |/  
-|/|   
+| |/
+|/|
 * | a7e713e change 1 on branch2
-|/  
+|/
 * bea2a02 change 1 on master
