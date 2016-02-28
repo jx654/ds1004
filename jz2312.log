@@ -39,9 +39,7 @@ jz2312
 |/|   
 * | 217c056 2 master1
 |/  
-<<<<<<< HEAD
 * 48ca453 1 master
-
 yg1305
 *   2c02517 (9) 4th commit, branch1, merge branch2
 |\  
@@ -63,6 +61,3 @@ yg1305
 * | bafc050 (2) 1st commit, branch1
 |/  
 * e870983 (1) 1st commit, master
-=======
-* 48ca453 1 master
->>>>>>> e91789825eee258ae195d2d891af1dc597bcb561
