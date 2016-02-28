@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jx654
 *   c819885 9. forth to 01 merge 02
 |\  
@@ -19,25 +20,46 @@ jx654
 * | 9eee411 2.first commit on 01
 |/  
 * e9397e6 1. first commit on master
+=======
+cl3734
+*   df13a56 9th commit (final node)
+|\
+| *   07f71bc 8th commit
+| |\
+| * | fd840fa 6th commit
+* | |   d04b4e5 7th commit
+|\ \ \
+| | |/
+| |/|
+| * |   64fcb5c 5th commit
+| |\ \
+| | |/
+| | * 8dc307c 3rd commit
+* | | f54a4d6 4th commit
+|/ /
+* | bbf2492 2nd commit
+|/
+* 9e1f97b 1st commit (starting node)
+>>>>>>> 8b9a8cdc8767d2a8ea8bf63cfb4554d4180a5abd
 
 yg1281
 *   0a1ca6b Forth commit B1. Merging B2
-|\  
+|\
 | *   a7236d6 Second commit, B2. Merging master
-| |\  
+| |\
 | * | c17901d First commit, B2
 * | |   720914f Third commit, B1. Merging master
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   fb132ce Third commit, Master. Merging B1
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 8b771f2 Second commit, Master
 * | | ce8fd8d Second commit, B1
-| |/  
-|/|   
+| |/
+|/|
 * | 7e9f836 First commit. B1
-|/  
+|/
 * 2a34715 First commit, Master
