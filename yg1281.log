@@ -20,7 +20,7 @@ jx654
 * | 9eee411 2.first commit on 01
 |/  
 * e9397e6 1. first commit on master
-=======
+
 jz2312
 *   9f325f6 9 master1 merge master2
 |\
@@ -42,8 +42,7 @@ jz2312
 * | 217c056 2 master1
 |/
 * 48ca453 1 master
->>>>>>> f71241b859a36bbb05ef80e57a00e6f654fab57e
-=======
+
 cl3734
 *   df13a56 9th commit (final node)
 |\
@@ -63,7 +62,6 @@ cl3734
 * | bbf2492 2nd commit
 |/
 * 9e1f97b 1st commit (starting node)
->>>>>>> 8b9a8cdc8767d2a8ea8bf63cfb4554d4180a5abd
 
 yg1281
 *   0a1ca6b Forth commit B1. Merging B2
