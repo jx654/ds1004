@@ -1,3 +1,25 @@
+yg1305
+*   2c02517 (9) 4th commit, branch1, merge branch2
+|\  
+| *   b757c0f (7) 2nd commit, branch2, merge master
+| |\  
+| * | 26f40e4 (4) 1st commit, branch2
+* | |   d545e98 (8) 3rd commit, branch1,merge master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   28ed220 (5) 3rd commit, master, merge branch1
+| |\ \  
+| | |/  
+| |/|   
+| * | dce6c88 (3) 2nd commit, master
+* | | 02074a9 (6) 2nd commit, branch1
+| |/  
+|/|   
+* | bafc050 (2) 1st commit, branch1
+|/  
+* e870983 (1) 1st commit, master
+
 ys2530
 *   bcb7f67 Merge branch 'branch3' into branch4
 |\  
