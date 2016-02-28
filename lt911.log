@@ -19,3 +19,24 @@ lt911
 * | 174533d 4th (2nd on master)
 |/  
 * 358b087 1st (1st on master)
+yg1281
+*   0a1ca6b Forth commit B1. Merging B2
+|\
+| *   a7236d6 Second commit, B2. Merging master
+| |\
+| * | c17901d First commit, B2
+* | |   720914f Third commit, B1. Merging master
+|\ \ \
+| | |/
+| |/|
+| * |   fb132ce Third commit, Master. Merging B1
+| |\ \
+| | |/
+| |/|
+| * | 8b771f2 Second commit, Master
+* | | ce8fd8d Second commit, B1
+| |/
+|/|
+* | 7e9f836 First commit. B1
+|/
+* 2a34715 First commit, Master

@@ -19,3 +19,24 @@ jx654
 * | 9eee411 2.first commit on 01
 |/  
 * e9397e6 1. first commit on master
+yg1281
+*   0a1ca6b Forth commit B1. Merging B2
+|\
+| *   a7236d6 Second commit, B2. Merging master
+| |\
+| * | c17901d First commit, B2
+* | |   720914f Third commit, B1. Merging master
+|\ \ \
+| | |/
+| |/|
+| * |   fb132ce Third commit, Master. Merging B1
+| |\ \
+| | |/
+| |/|
+| * | 8b771f2 Second commit, Master
+* | | ce8fd8d Second commit, B1
+| |/
+|/|
+* | 7e9f836 First commit. B1
+|/
+* 2a34715 First commit, Master
